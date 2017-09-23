@@ -11,6 +11,11 @@ faça parte da comunidade que transforma a educação no Brasil, aula por aula.
 
 Crie e venda ou compre e aprimore-se, seja parte da família Sensei.
 
+
+Se você se interessou pela ideia e quer fazer parte dessa iniciativa se inscreva!
+
+
+
 <!--
 ### Jekyll Themes
 
