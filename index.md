@@ -14,7 +14,7 @@ Crie e venda ou compre e aprimore-se, seja parte da família Sensei.
 
 Se você se interessou pela ideia e quer fazer parte dessa iniciativa se inscreva!
 
-<form action="http://formspree.io/araujo.vitor_ga1@hotmail.com" method="post">
+<form action="http://formspree.io/vitor_ga1@hotmail.com" method="post">
   <input type="email" name="_replyto" placeholder="Email">
   <input type="submit" value="Send">
 </form>
